@@ -5,9 +5,7 @@ Projekt kalkulatora zbudowanego na platformie **Arduino UNO**, wykorzystującego
 
 Kalkulator umożliwia wykonywanie podstawowych działań matematycznych, a wynik wyświetlany jest na ekranie LCD.
 
-## 📸 Schemat projektu
 
-![Schemat podłączenia kalkulatora Arduino](schemat.png)
 
 ## ⚙️ Wykorzystywane komponenty
 
