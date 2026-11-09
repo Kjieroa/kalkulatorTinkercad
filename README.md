@@ -102,10 +102,4 @@ Biblioteki można zainstalować za pomocą Library Manager w Arduino IDE.
 - Wyniki wyświetlane są z dokładnością do dwóch miejsc po przecinku.
 - Dzielenie przez zero jest zabezpieczone komunikatem o błędzie.
 
-## 👨‍💻 Autor
 
-Projekt edukacyjny wykonany z wykorzystaniem Arduino UNO.
-
----
-
-⭐ Jeśli projekt Ci się podoba, zostaw gwiazdkę na GitHubie!
